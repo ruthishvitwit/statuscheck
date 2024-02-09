@@ -1,0 +1,803 @@
+{
+    "chaindata": {
+        "chain_id": "eightball-1",
+        "coinGeckoId": "",
+        "coinMarketCapId": "",
+        "denom": "uebl"
+    },
+    {
+        "chain_id": "acre_9052-1",
+        "coinGeckoId": "arable-protocol",
+        "coinMarketCapId": "18156",
+        "denom": "aacre"
+    },
+    {
+        "chain_id": "agoric-3",
+        "coinGeckoId": "agoric",
+        "coinMarketCapId": "16697",
+        "denom": "ubld",
+    },
+    {
+        "chain_id": "aioz_168-1",
+        "coinGeckoId": "aioz-network",
+        "coinMarketCapId": "9104",
+        "denom": "attoaioz",
+    },
+    {
+        "chain_id": "akashnet-2",
+        "coinGeckoId": "akash-network",
+        "coinMarketCapId": "7431",
+        "denom": "uakt",
+    },
+    {
+        "chain_id": "andromeda-1",
+        "coinGeckoId": "andromeda-2",
+        "coinMarketCapId": "15553",
+        "denom": "uandr",
+    },
+    {
+        "chain_id": "archway-1",
+        "coinGeckoId": "archway",
+        "coinMarketCapId": "27358",
+        "denom": "aarch",
+    },
+    {
+        "chain_id": "arkh",
+        "coinGeckoId": "",
+        "coinMarketCapId": "",
+        "denom": "arkh",
+    },
+    {
+        "chain_id": "mantle-1",
+        "coinGeckoId": "assetmantle",
+        "coinMarketCapId": "19686",
+        "denom": "umntl",
+    },
+    {
+        "chain_id": "xstaxy-1",
+        "coinGeckoId": "aura-network",
+        "coinMarketCapId": "20326",
+        "denom": "uaura",
+    },
+    {
+        "chain_id": "axelar-dojo-1",
+        "coinGeckoId": "axelar",
+        "coinMarketCapId": "17799",
+        "denom": "uaxl"
+    },
+    {
+        "chain_id": "laozi-mainnet",
+        "coinGeckoId": "band-protocol",
+        "coinMarketCapId": "4679",
+        "denom": "uband"
+    },
+    {
+        "chain_id": "beezee-1",
+        "coinGeckoId": "bzedge",
+        "coinMarketCapId": "23860",
+        "denom": "ubze"
+    },
+    {
+        "chain_id": "bitcanna-1",
+        "coingecko_id": "bitcanna",
+        "coinMarketCapId": "4263",
+        "denom": "ubcna"
+    },
+    {
+        "chain_id": "bitsong-2b",
+        "coingecko_id": "bitsong",
+        "coinMarketCapId": "8905",
+        "denom": "ubtsg"
+    },
+    {
+        "chain_id": "bluzelle-9",
+        "coingecko_id": "bluzelle",
+        "coinMarketCapId": "2505",
+        "denom": "ubnt"
+    },
+    {
+        "chain_id": "bostrom",
+        "coingecko_id": "bostrom",
+        "coinMarketCapId": "19111",
+        "denom": "boot",
+    },
+    {
+        "chain_id": "canto_7700-1",
+        "coingecko_id": "canto",
+        "coinMarketCapId": "21516",
+        "denom": "acanto",
+    },
+    {
+        "chain_id": "carbon-1",
+        "coingecko_id": "switcheo",
+        "coinMarketCapId": "2620",
+        "denom": "swth"
+    },
+    {
+        "chain_id": "celestia",
+        "coingecko_id": "celestia",
+        "coinMarketCapId": "22861",
+        "denom": "utia"
+    },
+    {
+        "chain_id": "cerberus-chain-1",
+        "coingecko_id": "cerberus-2",
+        "coinMarketCapId": "18900",
+        "denom": "ucrbrus",
+    },
+    {
+        "chain_id": "juno-1",
+        "coinGeckoId": "juno-network",
+        "coinMarketCapId": "14299",
+        "denom": "ujuno"
+    },
+    {
+        "chain_id": "kava_2222-10",
+        "coinGeckoId": "kava",
+        "coinMarketCapId": "4846",
+        "denom": "ukava"
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "kava-swap",
+        "coinMarketCapId": "11562",
+        "denom": "swp"
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "kava-lend",
+        "coinMarketCapId": "7576",
+        "denom": "hard"
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "usdx",
+        "coinMarketCapId": "6651",
+        "denom": "usdx"
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "ion",
+        "coinMarketCapId": "23547",
+        "denom": "uion"
+    },
+    {
+        "chain_id": "osmosis-1",
+        "coinGeckoId": "osmosis",
+        "coinMarketCapId": "12220",
+        "denom": "uosmo"
+    },
+    {
+        "chain_id": "sifchain-1",
+        "coinGeckoId": "sifchain",
+        "coinMarketCapId": "8541",
+        "denom": "rowan"
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "inter-stable-token",
+        "coinMarketCapId": "22736",
+        "denom": "uist",
+    },
+    {
+        "chain_id": "iov-mainnet-ibc",
+        "coinGeckoId": "starname",
+        "coinMarketCapId": "7271",
+        "denom": "uiov"
+    },
+    {
+        "chain_id": "irishub-1",
+        "coinGeckoId": "iris-network",
+        "coinMarketCapId": "3874",
+        "denom": "uiris"
+    },
+    {
+        "chain_id": "regen-1",
+        "coinGeckoId": "regen",
+        "coinMarketCapId": "11646",
+        "denom": "uregen"
+    },
+    {
+        "chain_id": "sentinelhub-2",
+        "coinGeckoId": "sentinel",
+        "coinMarketCapId": "2643",
+        "denom": "udvpn"
+    },
+    {
+        "chain_id": "cronosmainnet_25-1",
+        "coinGeckoId": "crypto-com-chain",
+        "coinMarketCapId": "3635",
+        "denom": "basecro"
+    },
+    {
+        "chain_id": "core-1",
+        "coinGeckoId": "persistence",
+        "coinMarketCapId": "7281",
+        "denom": "uxprt"
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "e-money-eur",
+        "coinMarketCapId": "13877",
+        "denom": "eeur"
+    },
+    {
+        "chain_id": "emoney-3",
+        "coingecko_id": "e-money",
+        "coinMarketCapId": "8279",
+        "denom": "ungm"
+    },
+    {
+        "chain_id": "likecoin-mainnet-2",
+        "coinGeckoId": "likecoin",
+        "coinMarketCapId": "2909",
+        "denom": "nanolike"
+    },
+    {
+        "chain_id": "injective-1",
+        "coinGeckoId": "injective-protocol",
+        "coinMarketCapId": "7226",
+        "denom": "inj"
+    },
+    {
+        "chain_id": "",
+        "coingecko_id": "autism",
+        "coinMarketCapId": "29271",
+        "denom": "autism",
+    },
+    {
+        "chain_id": "",
+        "coingecko_id": "dog-wif-nuchucks",
+        "coinMarketCapId": "28765",
+        "denom": "NINJA",
+    },
+    {
+        "chain_id": "kichain-2",
+        "coinGeckoId": "ki",
+        "coinMarketCapId": "9908",
+        "denom": "uxki"
+    },
+    {
+        "chain_id": "",
+        "coingecko_id": "lvn",
+        "coinMarketCapId": "28660",
+        "denom": "lvn",
+    },
+    {
+        "chain_id": "titan-1",
+        "coinGeckoId": "rizon",
+        "coinMarketCapId": "15388",
+        "denom": "uatolo"
+    },
+    {
+        "chain_id": "crescent-1",
+        "coinGeckoId": "crescent-network",
+        "coinMarketCapId": "",
+        "denom": "ucre",
+    },
+    {
+        "chain_id": "",
+        "coingecko_id": "liquid-staking-crescent",
+        "coinMarketCapId": "",
+        "denom": "ubcre",
+    },
+    {
+        "chain_id": "umee-1",
+        "coinGeckoId": "umee",
+        "coinMarketCapId": "",
+        "denom": "uumee"
+    },
+    {
+        "chain_id": "secret-4",
+        "coinGeckoId": "secret",
+        "coinMarketCapId": "5604",
+        "denom": "uscrt"
+    },
+    {
+        "chain_id": "",
+        "coingecko_id": "sienna",
+        "coinMarketCapId": "9388",
+        "denom": "sienna",
+    },
+    {
+        "chain_id": "",
+        "coingecko_id": "shade-protocol",
+        "coinMarketCapId": "18699",
+        "denom": "shd",
+    },
+    {
+        "chain_id": "evmos_9001-2",
+        "coinGeckoId": "evmos",
+        "coinMarketCapId": "19899",
+        "denom": "aevmos"
+    },
+    {
+        "chain_id": "neutron-1",
+        "coinGeckoId": "neutron-3", 
+        "coinMarketCapId": "26680",
+        "denom": "untrn"
+    },
+    {
+        "chain_id": "stride-1",
+        "coinGeckoId": "stride",
+        "coinMarketCapId": "21781",
+        "denom": "stustrd"
+    },
+    {
+        "chain_id": "noble-1",
+        "coinGeckoId": "usd-coin",
+        "coinMarketCapId": "3408",
+        "denom": "uusdc",
+    },
+    {
+        "chain_id": "stargaze-1",
+        "coinGeckoId": "stargaze",
+        "coinMarketCapId": "16842",
+        "denom": "ustars"
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "chihuahua-token",
+        "coinMarketCapId": "17208",
+        "denom": "uhuahua"
+    },
+    {
+        "chain_id": "dig-1",
+        "coinGeckoId": "dig-chain",
+        "coinMarketCapId": "17748",
+        "denom": "udig"
+    },
+    {
+        "chain_id": "comdex-1",
+        "coinGeckoId": "comdex",
+        "coinMarketCapId": "14713",
+        "denom": "ucmdx"
+    },
+    {
+        "chain_id": "mars-1",
+        "coingecko_id": "mars-protocol-a7fcbcfb-fd61-4017-92f0-7ee9f9cc6da3",
+        "coinMarketCapId": "18621",
+        "denom": "umars",
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "weth",
+        "coinMarketCapId": "2396",
+        "denom": "weth-wei"
+    },
+    {
+        "chain_id": "dydx-mainnet-1",
+        "coinGeckoId": "dydx-chain",
+        "coinMarketCapId": "28324",
+        "denom": "adydx"
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "cheqd-network",
+        "coinMarketCapId": "12256",
+        "denom": "ncheq"
+    },
+    {
+        "chain_id": "onomy-mainnet-1",
+        "coinGeckoId": "onomy-protocol",
+        "coinMarketCapId": "10687",
+        "denom": "anom"
+    },
+    {
+        "chain_id": "lum-network-1",
+        "coinGeckoId": "lum-network",
+        "coinMarketCapId": "17183",
+        "denom": "ulum"
+    },
+    {
+        "chain_id": "vidulum-1",
+        "coinGeckoId": "vidulum",
+        "coinMarketCapId": "4315",
+        "denom": "uvdl"
+    },
+    {
+        "chain_id": "desmos-mainnet",
+        "coinGeckoId": "desmos",
+        "coinMarketCapId": "17338",
+        "denom": "udsm"
+    },
+    {
+        "chain_id": "shentu-2.2",   
+        "coinGeckoId": "certik",
+        "coinMarketCapId": "4807",
+        "denom": "uctk"
+    },
+    {
+        "chain_id": "sommelier-3",
+        "coinGeckoId": "sommelier",
+        "coinMarketCapId": "18248",
+        "denom": "usomm"
+    },
+    {
+        "chain_id": "darchub",
+        "coinGeckoId": "darcmatter-coin",
+        "coinMarketCapId": "18051",
+        "denom": "udarc"
+    },
+    {
+        "chain_id": "mainnet-3",
+        "coinGeckoId": "decentr",
+        "coinMarketCapId": "5835",
+        "denom": "udec"
+    },
+    {
+        "chain_id": "omniflixhub-1",
+        "coinGeckoId": "omniflix-network",
+        "coinMarketCapId": "24645",
+        "denom": "uflix"
+    },
+    {
+        "chain_id": "fetchhub-4",
+        "coinGeckoId": "fetch-ai",
+        "coinMarketCapId": "3773",
+        "denom": "afet"
+    },
+    {
+        "chain_id": "microtick-1",  
+        "coinGeckoId": "microtick",
+        "coinMarketCapId": "17451",
+        "denom": "utick"
+    },
+    {
+        "chain_id": "panacea-3",
+        "coinGeckoId": "medibloc",
+        "coinMarketCapId": "2303",
+        "denom": "umed"
+    },
+    {
+        "chain_id": "pirin-1",
+        "coinGeckoId": "nolus",
+        "coinMarketCapId": "28485",
+        "denom": "unls"
+    },
+    {
+        "chain_id": "kaiyo-1",
+        "coinGeckoId": "kujira",
+        "coinMarketCapId": "15185",
+        "denom": "ukuji"
+    },
+    {
+        "chain_id": "",
+        "coingecko_id": "usk",
+        "coinMarketCapId": "21804",
+        "denom": "usk",
+    },
+    {
+        "chain_id": "",
+        "coingecko_id": "unstake-fi",
+        "coinMarketCapId": "",
+        "denom": "nstk",
+    },
+    {
+        "chain_id": "tgrade-mainnet-1",
+        "coinGeckoId": "tgrade",
+        "coinMarketCapId": "",
+        "denom": "utgd"
+    },
+    {
+        "chain_id": "",
+        "coingecko_id": "mantadao",
+        "coinMarketCapId": "25320",
+        "denom": "mnta",    
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "tether",
+        "coinMarketCapId": "825",
+        "denom": "erc20/tether/usdt"
+    },
+    {
+        "chain_id": "gravity-bridge-3",
+        "coinGeckoId": "graviton",
+        "coinMarketCapId": "20381",
+        "denom": "ugraviton"
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "chainlink",
+        "coinMarketCapId": "1975",
+        "denom": "link-wei"
+
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "maker",
+        "coinMarketCapId": "1518",
+        "denom": "mkr-wei"
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "xcdot",
+        "coinMarketCapId": "20658",
+        "denom": "dot-planck"
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "",
+        "coinMarketCapId": ""
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "",
+        "coinMarketCapId": ""
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "",
+        "coinMarketCapId": ""
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "",
+        "coinMarketCapId": ""
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "",
+        "coinMarketCapId": ""
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "",
+        "coinMarketCapId": ""
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "",
+        "coinMarketCapId": ""
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "",
+        "coinMarketCapId": ""
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "",
+        "coinMarketCapId": ""
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "",
+        "coinMarketCapId": ""
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "",
+        "coinMarketCapId": ""
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "",
+        "coinMarketCapId": ""
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "",
+        "coinMarketCapId": ""
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "",
+        "coinMarketCapId": ""
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "",
+        "coinMarketCapId": ""
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "",
+        "coinMarketCapId": ""
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "",
+        "coinMarketCapId": ""
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "",
+        "coinMarketCapId": ""
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "",
+        "coinMarketCapId": ""
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "",
+        "coinMarketCapId": ""
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "",
+        "coinMarketCapId": ""
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "",
+        "coinMarketCapId": ""
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "",
+        "coinMarketCapId": ""
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "",
+        "coinMarketCapId": ""
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "",
+        "coinMarketCapId": ""
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "",
+        "coinMarketCapId": ""
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "",
+        "coinMarketCapId": ""
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "",
+        "coinMarketCapId": ""
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "",
+        "coinMarketCapId": ""
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "",
+        "coinMarketCapId": ""
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "",
+        "coinMarketCapId": ""
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "",
+        "coinMarketCapId": ""
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "",
+        "coinMarketCapId": ""
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "",
+        "coinMarketCapId": ""
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "",
+        "coinMarketCapId": ""
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "",
+        "coinMarketCapId": ""
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "",
+        "coinMarketCapId": ""
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "",
+        "coinMarketCapId": ""
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "",
+        "coinMarketCapId": ""
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "",
+        "coinMarketCapId": ""
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "",
+        "coinMarketCapId": ""
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "",
+        "coinMarketCapId": ""
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "",
+        "coinMarketCapId": ""
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "",
+        "coinMarketCapId": ""
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "",
+        "coinMarketCapId": ""
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "",
+        "coinMarketCapId": ""
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "",
+        "coinMarketCapId": ""
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "",
+        "coinMarketCapId": ""
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "",
+        "coinMarketCapId": ""
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "",
+        "coinMarketCapId": ""
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "",
+        "coinMarketCapId": ""
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "",
+        "coinMarketCapId": ""
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "",
+        "coinMarketCapId": ""
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "",
+        "coinMarketCapId": ""
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "",
+        "coinMarketCapId": ""
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "",
+        "coinMarketCapId": ""
+    },
+    {
+        "chain_id": "",
+        "coinGeckoId": "",
+        "coinMarketCapId": ""
+    },

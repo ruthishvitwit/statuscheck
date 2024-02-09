@@ -1,0 +1,31 @@
+
+.container {
+    text-align: center; /* Center align content */
+  }
+  
+  .heading {
+    font-size: 24px; /* Adjust the font size as needed */
+    text-align: center;
+  }
+  
+  .center {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .table {
+    border-collapse: collapse;
+    width: 80%;
+    border: 1px solid black;
+  }
+  
+  .table th,
+  .table td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+  }
+  
+  .table th {
+    background-color: #ddd;
+  }
